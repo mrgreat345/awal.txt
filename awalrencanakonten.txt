@@ -1,6 +1,8 @@
 Rencana Konten
 - Javascript
 - CSS Grid
+  - Grid 1-7
+  - Ngobar 24
 - CSS Flexbox
   - Flexbox 1
   - Flexbox 2

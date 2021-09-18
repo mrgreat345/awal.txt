@@ -2,3 +2,4 @@ Rencana Konten
 - Javascript
 - CSS Grid
 - CSS Flexbox
+- struktur Data Dasar

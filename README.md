@@ -1,1 +1,2 @@
-resolusi 2021
+resolusi 2021:
+belajar dasar coding

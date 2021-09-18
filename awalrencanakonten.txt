@@ -1,5 +1,7 @@
 Rencana Konten
 - Javascript
 - CSS Grid
+  - 1-8
 - CSS Flexbox
-- struktur Data Dasar
+  - Flexbox 1
+  - Flexbox 2

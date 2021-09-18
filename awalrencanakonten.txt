@@ -2,4 +2,7 @@ Rencana Konten
 - Javascript
 - CSS Grid
 - CSS Flexbox
+  - Flexbox 1
+  - Flexbox 2
+  - Ngobar 23
 - struktur Data Dasar

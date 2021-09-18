@@ -1,1 +1,1 @@
-# awal.txt
+resolusi 2021
